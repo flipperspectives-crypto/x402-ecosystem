@@ -150,3 +150,6 @@ Total projects listed: 133
 - @stripe
 - @thirdweb
 - @Visa
+
+## Services
+- [Clarity](https://desktop-o99r0sf.tail935fba.ts.net) — Base mainnet x402 gateway for agents: $0.001 chat + $2 research reports (local Ollama). [Discovery](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402)
