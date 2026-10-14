@@ -152,4 +152,4 @@ Total projects listed: 133
 - @Visa
 
 ## Services
-- [Clarity](https://desktop-o99r0sf.tail935fba.ts.net) — Base mainnet x402 gateway for agents: $0.001 chat + $2 research reports (local Ollama). [Discovery](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402)
+- [Clarity](https://flipperspectives-crypto.github.io/clarity-docs/) — Base mainnet x402 gateway for agents: $0.001 chat + $2 research reports (local Ollama). [Paid API endpoint](https://desktop-o99r0sf.tail935fba.ts.net) [Discovery](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402)
